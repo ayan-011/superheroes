@@ -20,9 +20,9 @@ const Thor = () => {
     <div className='w-full h-screen flex items-center justify-center bg-black overflow-hidden  '>
       
       {/* Background Video */}
-      {/* <video className="pointer-events-none opacity-50  "  autoPlay muted loop>
+      <video className="pointer-events-none opacity-50  "  autoPlay muted loop>
         <source src="/marvelimg/thunder.mp4" type="video/mp4" />
-      </video> */}
+      </video>
       
       {/* Main Card */}
       <div className="lg:w-[1700px]  rounded-2xl lg:h-[800px] bg-zinc-800 absolute flex opacity-50 sm:w-[600px] sm:h-[300px] md:w-[700px] md:h-[350px] w-[300px] h-[600px]">
